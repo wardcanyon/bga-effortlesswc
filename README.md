@@ -1,11 +1,38 @@
+- Feedback from Isaac game
+
+  - "Armor: mage hands"
+
+  - attribute order: str, dex, con, int, wis, cha
+
+  - animation sequencing
+
+  - (consider/weak): for effects like City, consider selecting the setloc rather than the pile
+
+  - for crypt/etc., actually show top card of discard?  similarly, for temple, show two face-down cards that are "the
+    top of the deck"?
+
+  - treacherous' tooltip is wrong
+
+    - and behavior is wrong, too!
+
+  - need updated obsidian helmet card
+
+  - scoring table section order: armor, items, attributes, settings
+
+  - Isaac using chrome - cards appearing oddly - screenshot in Discord
+
+  - Send Isaac a note about BGA metadata images
+
+  - Isaac will send new logo, new game cover
+
+  - apply for beta & post in BMG discord!
+
+  - Isaac suggests: on iPad, pin player's hand to top so that it's visible when you scroll.  Maybe that'd actually be
+    good behavior in general, below a certain resolution (e.g. when using the single-column layout)?
+
 - Blocking stuff
 
-  - Card selection
-
-    - Fix Library card selection (we need to force prompt mode)
-
-    - Make sure that full card metadata isn't being sent when players are not supposed to be able to look at face-down
-      cards
+  - (none?)
 
 - High-priority stuff that is not blocking
 
@@ -34,6 +61,10 @@
       - just give up and do this with javascript, or inline width styles?
 
     - text and icons are not vertically aligned; having an icon pushes the text down
+
+- Kickstarter exclusives
+
+  - Isaac to share spreadsheet
 
 - Other
 
